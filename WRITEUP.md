@@ -17,9 +17,9 @@ VM: Deploying and managing applications on a VM requires more manual steps, incl
 App Service: App Service simplifies the deployment process with built-in CI/CD integration, making it easier to deploy and manage your application. It handles the underlying infrastructure, allowing you to focus on your code.
 
 
-### Chosen Solution: App Service
+# Chosen Solution: App Service
 
-# Justification for Choosing App Service
+## Justification for Choosing App Service
 
 ### Ease of Use: 
 App Service simplifies the deployment process with built-in CI/CD integration, making it easier to deploy and manage your application.
